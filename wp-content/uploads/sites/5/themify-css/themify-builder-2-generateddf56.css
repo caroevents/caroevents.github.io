@@ -1,0 +1,49 @@
+/* .themify_builder_2_row.module_row_0 Style */
+.themify_builder_2_row.module_row_0.module_row {
+	background-image: url(../2016/10/9.jpg);
+	color: #000000
+}
+.themify_builder_2_row.module_row_0 a {
+	color: #000000
+}
+.themify_builder_2_row.module_row_0.module_row h1 {
+	color: #000000
+}
+.themify_builder_2_row.module_row_0.module_row h2 {
+	color: #000000
+}
+.themify_builder_2_row.module_row_0.module_row h3:not(.module-title) {
+	color: #000000
+}
+.themify_builder_2_row.module_row_0.module_row h4 {
+	color: #000000
+}
+.themify_builder_2_row.module_row_0.module_row h5 {
+	color: #000000
+}
+.themify_builder_2_row.module_row_0.module_row h6 {
+	color: #000000
+}
+
+/* .themify_builder_2_row.module_row_1 Style */
+.themify_builder_2_row.module_row_1.module_row {
+	background-color: #e6e6e6;
+	padding-top : 6%;
+	padding-bottom : 6%
+}
+
+/* .themify_builder_2_row.module_row_2 Style */
+.themify_builder_2_row.module_row_2.module_row {
+	padding-top : 6%;
+	padding-bottom : 6%
+}
+
+.themify_builder .widget-2-2-0-1.module-widget { color: #0f0e0e;  } 
+.themify_builder .widget-2-2-0-1.module-widget a { color: #0f0e0e; color: #6a2882;  } 
+.themify_builder .widget-2-2-0-1.module-widget a:hover { color: #0d0c0d;  } 
+/* .themify_builder_2_row.module_row_3 Style */
+.themify_builder_2_row.module_row_3.module_row {
+	padding-top : 6%;
+	padding-bottom : 6%
+}
+
